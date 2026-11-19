@@ -25,6 +25,6 @@ I work on **physical AI and computer vision**: making industrial anomaly detecti
 Python · PyTorch · LeRobot (ACT, SmolVLA) · LIBERO / MuJoCo · SO-ARM
 
 ### 📫 Contact
-✉️ hhrodro.scholar@gmail.com · [Google Scholar](#) · [LinkedIn](https://www.linkedin.com/in/rodro-haque-1016/)
+✉️ hhrodro.scholar@gmail.com · [Google Scholar](https://scholar.google.com/citations?user=ggqzDoYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/rodro-haque-1016/)
 
 <!-- Before: earlier I was a Clinical AI Specialist at Augmedix (2024–2026). BSc in EEE, HSTU, Bangladesh. -->
