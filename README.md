@@ -5,9 +5,10 @@
 I work on **physical AI and computer vision**: making industrial anomaly detection robust and efficient, and building vision-language-action (VLA) policies for lights-out (dark) factories.
 
 ### 🔬 Research interests
-- Industrial anomaly detection (2D & 3D point clouds)
-- Vision-language-action models for robot manipulation
-- Multimodal AI
+- **Computer Vision & Anomaly Detection** *(2D/3D visual inspection, open-set recognition)*
+- **Physical AI & Robot Learning** *(vision-language-action models, manipulation)*
+- **Multimodal Representation Learning** *(vision-language models, cross-modal fusion)*
+- **Calibrated & Cost-Aware LLM Systems** *(uncertainty calibration, hybrid routing, data-centric AI)*
 
 ### 📌 Current work
 | Project | Area | Status |
