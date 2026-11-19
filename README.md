@@ -2,7 +2,7 @@
 
 **Graduate Researcher** at the [Visual AI Lab](http://islab.cwnu.ac.kr/), Dept. of AI Convergence Engineering, Changwon National University 🇰🇷 (advisor: Prof. Oh-Seol Kwon)
 
-I work on **physical AI and computer vision**: making industrial anomaly detection robust and efficient, and building vision-language-action (VLA) policies for lights-out (dark) factories.
+I work on **physical AI and computer vision**: making industrial anomaly detection robust and efficient, and building lightweight, efficient vision-language-action (VLA) policies for robotic manipulation.
 
 ### 🔬 Research interests
 - **Computer Vision & Anomaly Detection** *(2D/3D visual inspection, open-set recognition)*
