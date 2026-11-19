@@ -12,19 +12,27 @@ I work on **physical AI and computer vision**: making industrial anomaly detecti
 ### 📌 Current work
 | Project | Area | Status |
 |---|---|---|
-| **Identity-shortcut-free unsupervised AD** | Anomaly detection (MVTec AD, BTAD) | In preparation |
+| **CROMP** | Memory-free RGB-3D anomaly detection under contaminated training data | In preparation |
+| **Identity-shortcut-free unsupervised AD** | Industrial anomaly detection (MVTec AD, BTAD) | In preparation |
+| **ThriftClean-D** | End-to-end calibrated detection & LLM tabular data cleaning | Journal version in preparation |
 
 ### 🏆 Highlights
-- 🥉 **2nd Runner-up (#3, 53.761%)**, CV4Ecology challenge @ ECCV: [**FishONet**](https://github.com/lexus-x/FishONet) — open-set fine-grained fish species recognition across 17,393 taxa (team CWNU AIX)
+- 🥉 **2nd Runner-up (#3, 53.761%)**, CV4Ecology 2026 @ ECCV: [**FishONet**](https://github.com/Rodro-Haque/FishONet) — open-set fine-grained fish species recognition across 17,393 taxa (Team CWNU AIX)
+- 📄 **Published at KDBC 2026**: [**ThriftClean**](https://github.com/Rodro-Haque/ThriftClean) — *Confidence-Calibrated Hybrid Routing for Tabular Data Cleaning* (p. 139)
+- 🎓 **BK21 Research Fellow (2026)** — National Research Foundation of Korea (NRF)
+- 📰 **Journal Article (2024)** — *Energy and Power Engineering*, [DOI: 10.4236/epe.2024.164009](https://doi.org/10.4236/epe.2024.164009)
+- 🤖 **Robotics Awards** — Champion, Line Follower Robot (*ESONANCE 2023*, IUT) · 2nd Runner-up (*AUST Rover Challenge 2022*)
 
 ### 🚀 Projects
-- [**FishONet**](https://github.com/lexus-x/FishONet) · Open-set marine species recognition with multi-backbone vision-language ensemble & calibrated quota gating ([Project page](https://fishonet.lalithsai00.workers.dev/))
-- [**Multimodal Emotion Classification**](https://github.com/Rodro-Haque/Emotion-Classifications) · PyTorch multimodal emotion classification combining text, audio, and visual encoders with early fusion (CMU-MOSEI & feature-extraction pipelines)
+- [**ThriftClean**](https://github.com/Rodro-Haque/ThriftClean) · Confidence-calibrated, cost-ordered hybrid routing for tabular data cleaning with `Qwen3-8B` (KDBC 2026)
+- [**FishONet**](https://github.com/Rodro-Haque/FishONet) · Open-set marine species recognition across 17,393 taxa with multi-backbone vision-language ensemble & calibrated quota gating ([Project page](https://fishonet.lalithsai00.workers.dev/))
+- [**AIS-Radar Dark Vessel Detection**](https://github.com/Rodro-Haque/AIS-Radar-Dark-Vessel-Detection) · Dual-encoder Euclidean contrastive learning with BallTree pairing & hard negative mining for AIS + radar fusion
+- [**Multimodal Emotion Classification**](https://github.com/Rodro-Haque/Emotion-Classifications) · PyTorch early-fusion multimodal emotion classification (CMU-MOSEI & feature-extraction pipelines)
 
 ### 🛠️ Tools
 Python · PyTorch · LeRobot (ACT, SmolVLA) · LIBERO / MuJoCo · SO-ARM
 
 ### 📫 Contact
-✉️ hhrodro.scholar@gmail.com · [Google Scholar](https://scholar.google.com/citations?user=ggqzDoYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/rodro-haque-1016/)
+✉️ hhrodro.scholar@gmail.com · [Google Scholar](https://scholar.google.com/citations?user=ggqzDoYAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0000-9534-6511) · [LinkedIn](https://www.linkedin.com/in/rodro-haque-1016/)
 
 <!-- Before: earlier I was a Clinical AI Specialist at Augmedix (2024–2026). BSc in EEE, HSTU, Bangladesh. -->
