@@ -12,12 +12,14 @@ I work on **physical AI and computer vision**: making industrial anomaly detecti
 ### 📌 Current work
 | Project | Area | Status |
 |---|---|---|
-
 | **Identity-shortcut-free unsupervised AD** | Anomaly detection (MVTec AD, BTAD) | In preparation |
 
-
 ### 🏆 Highlights
-- 🥉 **2nd Runner-up**, CV4Ecology challenge @ ECCV: *FishONet*, fine-grained fish species recognition
+- 🥉 **2nd Runner-up (#3, 53.761%)**, CV4Ecology challenge @ ECCV: [**FishONet**](https://github.com/lexus-x/FishONet) — open-set fine-grained fish species recognition across 17,393 taxa (team CWNU AIX)
+
+### 🚀 Projects
+- [**FishONet**](https://github.com/lexus-x/FishONet) · Open-set marine species recognition with multi-backbone vision-language ensemble & calibrated quota gating ([Project page](https://fishonet.lalithsai00.workers.dev/))
+- [**Multimodal Emotion Classification**](https://github.com/Rodro-Haque/Emotion-Classifications) · PyTorch multimodal emotion classification combining text, audio, and visual encoders with early fusion (CMU-MOSEI & feature-extraction pipelines)
 
 ### 🛠️ Tools
 Python · PyTorch · LeRobot (ACT, SmolVLA) · LIBERO / MuJoCo · SO-ARM
