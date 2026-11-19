@@ -12,9 +12,9 @@ I work on **physical AI and computer vision**: making industrial anomaly detecti
 ### 📌 Current work
 | Project | Area | Status |
 |---|---|---|
-| **CROMP** | Memory-free RGB-3D anomaly detection under contaminated training data | In preparation |
+| **Contamination-robust unsupervised AD** | Memory-free RGB-3D anomaly detection | In preparation |
 | **Identity-shortcut-free unsupervised AD** | Industrial anomaly detection (MVTec AD, BTAD) | In preparation |
-| **ThriftClean-D** | End-to-end calibrated detection & LLM tabular data cleaning | Journal version in preparation |
+| **End-to-end calibrated LLM table cleaning** | Tabular error detection & cost-aware repair | In preparation |
 
 ### 🏆 Highlights
 - 🥉 **2nd Runner-up (#3, 53.761%)**, CV4Ecology 2026 @ ECCV: [**FishONet**](https://github.com/Rodro-Haque/FishONet) — open-set fine-grained fish species recognition across 17,393 taxa (Team CWNU AIX)
